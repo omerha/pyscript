@@ -1,0 +1,438 @@
+[
+    {
+        "city": "KNT",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UF7BWAJRH",
+            "CBMNTR527"
+        ],
+        "names": [
+            "mor.ofir",
+            "omer.harel"
+        ]
+    },
+    {
+        "city": "LPL",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UF7BWAJRH",
+            "CBMNTR527"
+        ],
+        "names": [
+            "mor.ofir"
+        ]
+    },
+    {
+        "city": "ZQN",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "NTL",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UC0PQAD42",
+            "C87P96R8C"
+        ],
+        "names": [
+            "omri.limor"
+        ]
+    },
+    {
+        "city": "SYD",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UC0PQAD42",
+            "C8ZF0JR09"
+        ],
+        "names": [
+            "omri.limor"
+        ]
+    },
+    {
+        "city": "SNB",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UC0PQAD42",
+            "C8ZF0JR09"
+        ],
+        "names": [
+            "omri.limor"
+        ]
+    },
+    {
+        "city": "BER",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAGKPHTBK",
+            "C8PLY4YBS"
+        ],
+        "names": [
+            "sagi.segal"
+        ]
+    },
+    {
+        "city": "SAR",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAGKPHTBK",
+            "C9RPGRJBX"
+        ],
+        "names": [
+            "sagi.segal"
+        ]
+    },
+    {
+        "city": "WSC",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAGKPHTBK",
+            "CA1PLK7FY"
+        ],
+        "names": [
+            "sagi.segal"
+        ]
+    },
+    {
+        "city": "OXF",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X",
+            "CAKE4RZ50"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "BMN",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAGKPHTBK",
+            "CB505QR45"
+        ],
+        "names": [
+            "sagi.segal"
+        ]
+    },
+    {
+        "city": "BSF",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAGKPHTBK",
+            "CBUTBJXRB"
+        ],
+        "names": [
+            "sagi.segal"
+        ]
+    },
+    {
+        "city": "HRV",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X",
+            "CBGBTT1SA"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "TYO",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UF7BWAJRH",
+            "CAT7PK9DG"
+        ],
+        "names": [
+            "mor.ofir"
+        ]
+    },
+    {
+        "city": "AKL",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X",
+            "CBS1KMKHD"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "BDM",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X",
+            "CC7EMNTB7"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "ORC",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAGKPHTBK",
+            "CC2LYJF2M"
+        ],
+        "names": [
+            "sagi.segal"
+        ]
+    },
+    {
+        "city": "DOH",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAGKPHTBK",
+            "CE8F287DE"
+        ],
+        "names": [
+            "sagi.segal"
+        ]
+    },
+    {
+        "city": "LAX",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X",
+            "C8ZF32W8G"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "SGA",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X",
+            "CDFTN52RZ"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "LNT",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X",
+            "CES7Y0ZGD"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "SEA",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UAHBY4Y4X",
+            "CDYTUBUT1"
+        ],
+        "names": [
+            "merav.bertele"
+        ]
+    },
+    {
+        "city": "BOD",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UC0PQAD42",
+            "CAXRDMA6L"
+        ],
+        "names": [
+            "omri.limor"
+        ]
+    },
+    {
+        "city": "GYN",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UC0PQAD42",
+            "CDSKUJLEP"
+        ],
+        "names": [
+            "omri.limor"
+        ]
+    },
+    {
+        "city": "WTS",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UC0PQAD42",
+            "CEVC30R2L"
+        ],
+        "names": [
+            "omri.limor"
+        ]
+    },
+    {
+        "city": "TLV",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UC0PQAD42",
+            "CF9PP9Z16"
+        ],
+        "names": [
+            "omri.limor"
+        ]
+    },
+    {
+        "city": "MGR",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UF7BWAJRH",
+            "CFXHPRFRT"
+        ],
+        "names": [
+            "mor.ofir"
+        ]
+    },
+    {
+        "city": "TPD",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UF7BWAJRH",
+            "CG72R8HGX"
+        ],
+        "names": [
+            "mor.ofir"
+        ]
+    },
+    {
+        "city": "LRC",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UF7BWAJRH",
+            "CH8E15ZHT"
+        ],
+        "names": [
+            "mor.ofir"
+        ]
+    },
+    {
+        "city": "LAS",
+        "slack_user_id": [
+            "UEP004XNG",
+            "UF7BWAJRH",
+            "CH8HW0QRJ"
+        ],
+        "names": [
+            "mor.ofir"
+        ]
+    },
+    {
+        "city": "LJU",
+        "slack_user_id": [
+            "UEP004XNG",
+            "U06CW3095",
+            "CFTQAEMU1"
+        ],
+        "names": [
+            "uri.mandelboum"
+        ]
+    },
+    {
+        "city": "LTA",
+        "slack_user_id": [
+            "UEP004XNG",
+            "U06CW3095",
+            "CCF87EU2F"
+        ],
+        "names": [
+            "uri.mandelboum"
+        ]
+    },
+    {
+        "city": "WAS",
+        "slack_user_id": [
+            "CHNAB82GL"
+        ]
+    },
+    {
+        "city": "ARN",
+        "slack_user_id": [
+            "C7JEUR0BC"
+        ]
+    },
+    {
+        "city": "LON",
+        "slack_user_id": [
+            "C9C2486JD"
+        ]
+    },
+    {
+        "city": "AMS",
+        "slack_user_id": [
+            "C88NQH7F1"
+        ]
+    },
+    {
+        "city": "MKN",
+        "slack_user_id": [
+            "CBLLT90QK"
+        ]
+    },
+    {
+        "city": "PAR",
+        "slack_user_id": [
+            "CE3EF7DEH"
+        ]
+    },
+    {
+        "city": "AUS",
+        "slack_user_id": [
+            "C5WE0S3J6"
+        ]
+    },
+    {
+        "city": "LYN",
+        "slack_user_id": [
+            "CFL4DSC9F"
+        ]
+    },
+    {
+        "city": "LGS",
+        "slack_user_id": [
+            "CH4CY36JV"
+        ]
+    },
+    {
+        "city": "PST",
+        "slack_user_id": [
+            "CGNGLUTTK"
+        ]
+    },
+    {
+        "city": "MON",
+        "slack_user_id": [
+            "CHUEM9RF0"
+        ]
+    },
+    {
+        "city": "NWT",
+        "slack_user_id": [
+            "CHMHY5NE7"
+        ]
+    },
+    {
+        "city": "MNR",
+        "slack_user_id": [
+            "CJBBF82LE"
+        ]
+    },
+    {
+        "city": "TUF",
+        "slack_user_id": [
+            "CJCASHRL0"
+        ]
+    }
+]
